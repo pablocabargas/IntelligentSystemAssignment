@@ -4,11 +4,11 @@ NLP assignment
 
 The repository includes:
 
--Intelligent_System_Assignment_Sentiment_Detection_over_labeled_tweets.pdf which is the report of the assignemt
--AssignmentIntelligentSystems.py which is the code of the assignment
--AssignmentIntelligentSystems.ipynb which is the code of the assignment but in version of jupyter notebook (RECOMMENDED)
--train.csv train file
--test.csv test file
+Markup: -Intelligent_System_Assignment_Sentiment_Detection_over_labeled_tweets.pdf which is the report of the assignemt
+        -AssignmentIntelligentSystems.py which is the code of the assignment
+        -AssignmentIntelligentSystems.ipynb which is the code of the assignment but in version of jupyter notebook (RECOMMENDED)
+        -train.csv train file
+        -test.csv test file
 
 In order to run the code is necessary to place train.csv and test.csv in the same folder as AssignmentIntelligentSystems.ipynb or AssignmentIntelligentSystems.py depending of the chosen way to use the code.
 
